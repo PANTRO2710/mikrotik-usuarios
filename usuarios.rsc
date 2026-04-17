@@ -1,10 +1,10 @@
 
 /ip hotspot user
-add name=user1 password=1001 profile=default limit-uptime=00:10:00
-add name=user2 password=1002 profile=default limit-uptime=00:10:00
-add name=user3 password=1003 profile=default limit-uptime=00:10:00
-add name=user4 password=1004 profile=default limit-uptime=00:10:00
-add name=user5 password=1005 profile=default limit-uptime=00:10:00
+add name=user1 password=1001 profile=default uptime=00:10:00
+add name=user2 password=1002 profile=default uptime=00:10:00
+add name=user3 password=1003 profile=default uptime=00:10:00
+add name=user4 password=1004 profile=default uptime=00:10:00
+add name=user5 password=1005 profile=default uptime=00:10:00
 add name=user6 password=1006 profile=default limit-uptime=00:10:00
 add name=user7 password=1007 profile=default limit-uptime=00:10:00
 add name=user8 password=1008 profile=default limit-uptime=00:10:00
